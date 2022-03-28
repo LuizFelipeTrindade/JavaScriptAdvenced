@@ -21,3 +21,11 @@ function somaAnonima(vum1, vum2){
 }
 
 console.log(somaAnonima(5,6));
+
+//soma usando ArrowFunction
+
+const somaArrow = (numb1, numb2) => {
+    return numb1 + numb2
+}
+
+console.log(somaArrow(100, 50));
