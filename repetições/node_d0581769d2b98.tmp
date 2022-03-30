@@ -1,0 +1,6 @@
+let c = 6
+
+do {
+    console.log(`Começando em: ${c}`)
+    c+=1
+}while(c > 1)
