@@ -1,0 +1,22 @@
+// let c = 1
+
+// while(c < 100){
+//     console.log(`O sexo vai começar em:${c}`)
+//     c++
+// }
+
+// let str = "Eu gosto é de sexo bixo"
+
+// let con = 0
+// while(con < str.length){
+//     console.log(str[con])
+//     con++
+// }
+
+let count = 0
+
+while(count < 10){
+    console.log(count)
+}
+
+
