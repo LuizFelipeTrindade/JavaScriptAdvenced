@@ -4,7 +4,7 @@ for (let i = 0; let < str.length; i++){
     console.log(str[i])
 }
 
-for (let c = -10; c <= 29, c++){
+for (let c = -10; c <= 29; c++) {
     console.log(c)
 }
 
