@@ -1,12 +1,12 @@
-// const str1 = String("Brazilian Dev");
-// const str2 = new String("Brazilian Dev2"); //Objeto
-// console.log(`str1 ${str1} str2 ${str2}`);
+const str1 = String("Brazilian Dev");
+const str2 = new String("Brazilian Dev2"); //Objeto
+console.log(`str1 ${str1} str2 ${str2}`);
 
-// console.log(`str1 dividida = ${str1.split('')}
-// str2 dividida = ${str2.split('')}`);
+console.log(`str1 dividida = ${str1.split('')}
+str2 dividida = ${str2.split('')}`);
 
-// const str2Convertido = str2.valueOf();
-// console.log(typeof str2Convertido);
+ const str2Convertido = str2.valueOf();
+ console.log(typeof str2Convertido);
 
 
 const num1 = Number('1');
