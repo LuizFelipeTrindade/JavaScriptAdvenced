@@ -16,3 +16,9 @@ arrayOrdenado.sort((a,b) => a - b);
 console.log(arrayOrdenado);
 
 
+const uluu = () => {
+    return "Pedro é lindo"
+}
+
+console.log(uluu());
+
