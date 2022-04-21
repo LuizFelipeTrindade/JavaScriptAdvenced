@@ -17,4 +17,5 @@ function  funcReturnUndefined(){
 
 variavel = funcReturnUndefined()
 
+//Propriedades de objetos em JavaScript podem também ser acessadas ou alteradas usando-se notação de colchetes. Objetos são às vezes chamados de arrays associativos, uma vez que cada propriedade é associada com um valor de string que pode ser usado para acessá-la. Então, por exemplo, você poderia acessar as propriedades do objeto meuCarro como se segue:
  
